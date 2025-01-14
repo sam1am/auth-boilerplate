@@ -1,12 +1,9 @@
-Here's a comprehensive README.md for the project:
-
-```markdown
 # FastAPI + React Authentication Boilerplate
 
 This is a full-stack boilerplate application featuring a FastAPI backend with SQLite database and a React frontend with Tailwind CSS. It implements user authentication with JWT tokens and includes user registration, login, and profile management functionality.
 
 ## Project Structure
-```
+
 ├── backend/
 │   ├── app/
 │   │   ├── core/
