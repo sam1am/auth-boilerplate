@@ -4,6 +4,7 @@ This is a full-stack boilerplate application featuring a FastAPI backend with SQ
 
 ## Project Structure
 
+```
 ├── backend/
 │   ├── app/
 │   │   ├── core/
@@ -24,6 +25,7 @@ This is a full-stack boilerplate application featuring a FastAPI backend with SQ
     │   └── services/          # API service functions
     ├── package.json
     └── tailwind.config.js
+```
 
 ## Features
 
